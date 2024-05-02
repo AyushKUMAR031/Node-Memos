@@ -1,2 +1,14 @@
 # NodeMemos
-A repository of concise Node.js notes and code snippets for beginners and intermediate developers.
+- event listeners, callback, emit functions
+- set time interval functions
+- json file parsing
+- file read/write sync/async
+- read file stream
+- write file stream
+- transform stream, z-lib, convert file to zip
+- pipe stream
+- cookie parser
+- sockets, send msg after timestamp of 3 second, or count the number of odd or even visitors
+- take input from user in form
+- find armstrong, palindrome, fibonaci, factorial
+- mongodb, save, insertOone, delete, update, set()
