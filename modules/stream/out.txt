@@ -1,0 +1,5 @@
+Hello this the text data used for 
+NodeJs Stream concept
+for experimental use only!!!!!!!!
+
+------

@@ -1,0 +1,4 @@
+Hello this the text data used for 
+NodeJs zLib concept
+for experimental use only!!!!!!!!
+...
