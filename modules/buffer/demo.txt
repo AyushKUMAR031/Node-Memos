@@ -1,0 +1,4 @@
+Hello this is the text data used for 
+NodeJs Buffer concept
+for experimental use only!!!!!!!!
+-----
