@@ -41,3 +41,6 @@ writer.on('error', (err) => {
 writer.on('finish', () =>{
   console.log("------\nData written to output.txt\n------");
 });
+
+// The flush() method 
+//It is called on a compression stream so that it can compel zlib to return as much output as achievable at present. 

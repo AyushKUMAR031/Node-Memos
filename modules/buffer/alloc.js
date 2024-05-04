@@ -11,6 +11,7 @@ fs.readFile('demo.txt', (err, data) => {
   }
 
   data.copy(buffer); //storing data in buffer
+  //buffer.write(data) also works
 
   //data in buffer
   console.log('Data read from file and stored in buffer:');

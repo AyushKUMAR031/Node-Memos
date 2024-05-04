@@ -15,3 +15,10 @@ console.log(buf.toString())
 
 
 
+//encoding of types:
+// utf8
+// utf161e
+// latinl
+// base64
+// hex
+// ascii
