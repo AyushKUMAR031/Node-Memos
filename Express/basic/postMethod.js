@@ -14,6 +14,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 //extended false -> in string or array
 //extended true -> in object
 
+// If POST URL = `user[name]=John&user[age]=30`
+// extended: true: , then `req.body` = `{ user: { name: 'John', age: '30' } }`. (a nested object structure)
+// extended: false, then  `req.body` = `{ 'user[name]': 'John', 'user[age]': '30' }`. (flat object structure with no nesting)
+
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname ,'./public/index2.html')); //sending file to webpage
 });
@@ -25,6 +29,7 @@ app.get('/post', (req, res) => {
 
 //handle post request at /post route
 app.post('/post', (req, res) =>{
+  console.log(req.body);
   const { title, content } = req.body; //Extracting request from body
 
   //another way -> const title = req.body.title , const content = req.body.content
