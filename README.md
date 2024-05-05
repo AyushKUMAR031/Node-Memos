@@ -17,7 +17,7 @@
 - [x] transform stream, z-lib, convert file to zip
 - [x] pipe stream
 - [x] Middlware
-- [ ] cookie parser
+- [ ] cookie parser, cookie session
 - [ ] Socket.io, send msg after timestamp of 3 second, or count the number of odd or even visitors
 - [ ] take input from user in Form
 - [ ] mongodb
