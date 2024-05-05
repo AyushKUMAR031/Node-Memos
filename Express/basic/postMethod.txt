@@ -1,6 +1,0 @@
-
-//Post:
-// - Used for sending data to the server.
-// - Data in the Body part
-// - No data length restrictions.
-// - Not cached by browsers, so suitable for sensitive data
