@@ -1,4 +1,8 @@
 # NodeMemos
+## Notes
+> NodeJs - Tutorials
+- [Node/Ghost-Bytes](https://cumbersome-accordion-690.notion.site/NodeJs-ad07c5b0c5d54ad98e53ae3af9f396d8?pvs=4)
+## Topics
 - [ ] Basics
 	- Find fibonaci and factorial using recursion, and armstrong, palindrome
 - [ ] Events
