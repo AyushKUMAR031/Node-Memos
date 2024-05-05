@@ -1,14 +1,20 @@
 # NodeMemos
-- [ ] event listeners, callback, emit functions
-- [ ] set time interval functions
+- [ ] Basics
+	- Find fibonaci and factorial using recursion, and armstrong, palindrome
+- [ ] Events
+  - event listeners, callback, emit functions
+- [ ] Set time interval functions
 - [ ] json file parsing
 - [ ] file read/write sync/async
+- [x] Express
+  - Get and Post Method
 - [x] read file stream
 - [x] write file stream
 - [x] transform stream, z-lib, convert file to zip
 - [x] pipe stream
+- [x] Middlware
 - [ ] cookie parser
-- [ ] sockets, send msg after timestamp of 3 second, or count the number of odd or even visitors
-- [ ] take input from user in form
-- [ ] find armstrong, palindrome, fibonaci, factorial
-- [ ] mongodb, save, insertOone, delete, update, set()
+- [ ] Socket.io, send msg after timestamp of 3 second, or count the number of odd or even visitors
+- [ ] take input from user in Form
+- [ ] mongodb
+  - save, insertOone, delete, update, set()
