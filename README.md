@@ -8,8 +8,8 @@
 - [x] Events
   - event listeners, callback, emit functions
 - [ ] Set time interval functions
-- [ ] json file parsing
-- [ ] fs and Http modules
+- [x] json file parsing
+- [x] fs and Http modules
 - [x] Express
   - Get and Post Method
 - [x] read file stream
@@ -23,8 +23,9 @@
 	- [x] send msg after timestamp of 3 second
  	- [ ] Count the number of odd or even visitors
 - [ ] take input from user in Form
-- [ ] mongodb
-  - save, insertOone, delete, update, set()
+- [x] mongodb
+  - [x] save,
+  - [ ] insertOone, delete, update, set()
      
 ### remaining topics
 - [ ] PostgreSQL
